@@ -1,0 +1,13 @@
+{
+  "name": "parse-jekyll-posts-to-json",
+  "version": "1.0.0",
+  "description": "...",
+  "main": "index.js",
+  "author": "Sanne Peters <sanne@sanstream.nl>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ndjson": "^1.5.0",
+    "yaml": "^1.9.2"
+  }
+}
